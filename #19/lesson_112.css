@@ -1,0 +1,47 @@
+body {
+    background-color: #eee;
+}
+
+ul {
+    list-style: none;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.red, .green, .blue, .gray {
+    padding: 10%;
+    cursor: pointer;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.choose {
+    background-color: #d9d9d9;
+    padding: 2%;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.real-color {
+    padding: 35% 40%;
+}

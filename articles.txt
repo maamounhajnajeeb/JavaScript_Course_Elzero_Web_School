@@ -1,0 +1,8 @@
+losely type and dynamic type, strong type and weak type
+https://medium.com/android-news/magic-lies-here-statically-typed-vs-dynamically-typed-languages-d151c7f95e2b
+
+variables scope in javascript:
+https://stackoverflow.com/questions/500431/what-is-the-scope-of-variables-in-javascript
+
+strict mode
+https://www.youtube.com/watch?v=Vrd6C8YePNI

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>assignment_1</title>
+    <script>
+        window.onload = function() {
+            let bodyChilds = document.body.children;
+            for (let i=0; i<bodyChilds.length; i++) {
+                let element = bodyChilds[i];
+                if (element.classList[0].match("open") && element.innerText === "Elzero") {
+                    element.click();
+                }
+            }
+        };
+    </script>
+</head>
+<body>
+    <a class="open" href="https://google.com">Google</a>
+    <a class="open" href="https://elzero.org">Elzero</a>
+    <a class="not" href="https://facebook.com">Facebook</a>
+    <a class="linked" href="https://linkedin.com">Elzero</a>
+</body>
+<script src="assignment_1.js"></script>
+</html>
