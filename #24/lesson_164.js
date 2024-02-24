@@ -8,7 +8,7 @@ Generators
 function* generatorNumbers() {
     for (let i=0; i<4; i++) {
         yield i;
-        console.log(`aler after yield ${i}`)
+        console.log(`alert after yield ${i}`)
     }
 }
 

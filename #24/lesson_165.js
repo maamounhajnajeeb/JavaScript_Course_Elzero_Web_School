@@ -26,6 +26,7 @@ console.log(generator.next());
 console.log(generator.next());
 console.log(generator.next());
 console.log(generator.next());
+// .return() will stopped the yeilding even if the generator has values
 console.log(generator.return("Stopped !!"));
 console.log(generator.next());
 console.log(generator.next());
