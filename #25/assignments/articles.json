@@ -1,0 +1,41 @@
+[
+    {
+        "id": 0,
+        "title": "DataBase Design for mere mortals",
+        "author": "Alejandro",
+        "category": "Database",
+        "content": "Hi"
+    },
+
+    {
+        "id": 1,
+        "title": "Python on the Backend",
+        "author": "Hudson",
+        "category": "programming",
+        "content": "Hello"
+    },
+
+    {
+        "id": 2,
+        "title": "Django web api",
+        "author": "willam s vincent",
+        "category": "backend",
+        "content": "Hello, World!"
+    },
+
+    {
+        "id": 3,
+        "title": "grokking algorithms",
+        "author": "I don't know",
+        "category": "DS & Algo",
+        "content": "Binary Trees"
+    },
+
+    {
+        "id": 4,
+        "title": "before sunrise",
+        "author": "me",
+        "category": "history",
+        "content": "no content"
+    }
+]
