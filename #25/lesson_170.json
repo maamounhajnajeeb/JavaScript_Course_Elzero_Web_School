@@ -1,0 +1,11 @@
+{
+    "Name" : "Maamoun Haj Najeeb",
+    "Age" : 19,
+    "National Number" : {
+        "Syria": "+963",
+        "Jordan": "+962"
+    },
+    "array": ["HTML", "CSS", "JavaScript"],
+    "boolean": true,
+    "null": null
+}
