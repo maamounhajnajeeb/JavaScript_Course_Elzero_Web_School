@@ -6,9 +6,12 @@ While you learn JavaScript with Osama Elzero, you need to get your hands dirty v
 Also, you need the final optimal tutorials codes and you need to check if your solutions for assignments is right or not</br>
 This repo contains codes that have been written during the course and assignments solutions.</br>
 
-## Cloning this project
+## Cloning This Repo
 Normal cloning with git: `git clone https://github.com/maamounhajnajeeb/JavaScript_Elzero.git`</br>
 And then you can get the full features of this repo.
+
+## Repo Features
+Main purpose of this repo is to give you help while studying the course and solving assignments beside give you some explantion and mini projects.
 
 ## Course && Assignments Links
 [Course on YouTube](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)</br>
