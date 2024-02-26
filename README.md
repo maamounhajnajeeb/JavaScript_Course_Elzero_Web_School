@@ -11,8 +11,8 @@ Normal cloning with git: `git clone https://github.com/maamounhajnajeeb/JavaScri
 And then you can get the full features of this repo.
 
 ## Course && Assignments Links
-Course on YouTube: [Course](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)</br>
-Assignments on Elzero Web School Website:[Assignments](https://elzero.org/category/assignments/javascript-bootcamp-assignments/)</br> 
+[Course on YouTube](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)</br>
+[Assignments on Elzero Web School Website](https://elzero.org/category/assignments/javascript-bootcamp-assignments/)</br> 
 
 ## Contributing
 I always say that nobody work is perfect, so you are open to contribute to this repo, and your contributions is more than wellcome.
