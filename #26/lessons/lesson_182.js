@@ -14,11 +14,11 @@ const getData = function(apiLink) {
     return myPromise;
 };
 
-getData("https://api.github.com/users/maamounhajnajeeb")
+getData("https://api.github.com/users/maamounhajnajeeb/repos")
 .then(
     (resolvedValue) => {
         resolvedValue.length = 10;
         return resolvedValue;
     })
-    .then ((result) => console.log(result[0]))
+    .then ((result) => console.log(result))
     .catch((rej) => console.log(rej));
